@@ -78,7 +78,6 @@ public class CircularList {
     }
 
     // Provide a string representation of the list
-    @Override
 	public String toString() {
 		
 		StringBuilder ret = new StringBuilder();
